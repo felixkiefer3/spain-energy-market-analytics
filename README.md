@@ -35,7 +35,7 @@ Forecasts hourly clearing prices based exclusively on weather generation and tem
 1. Clone the repository:
    ```bash
    git clone https://github.com/felixkiefer3/spain-energy-market-analytics.git
-   cd spain-energy-analytics
+   cd spain-energy-market-analytics
    ```
 2. Create and activate a virtual environment:
    ```bash
